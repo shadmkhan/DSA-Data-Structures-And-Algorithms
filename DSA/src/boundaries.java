@@ -18,6 +18,7 @@ class QNode
 	}
 	public void printBoundaries(Node root)
 	{
+		if(root==null) return;
 		Queue<QNode> qN = new LinkedList<>();
 		qN.add(new QNode(root, 0)); //Adding the root
 		Node prev=null;
