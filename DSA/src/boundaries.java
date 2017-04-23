@@ -1,6 +1,7 @@
 
 
-/* Print Boundaries of a binary tree
+// Print Boundaries of a binary tree
+//Author: Shad M Khan
 
 class QNode
 	{
