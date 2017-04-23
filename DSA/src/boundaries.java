@@ -1,6 +1,6 @@
 
 
-/* Asked in interview at Amazon India Labs126
+/* Print Boundaries of a binary tree
 
 class QNode
 	{
