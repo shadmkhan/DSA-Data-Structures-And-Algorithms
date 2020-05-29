@@ -1,5 +1,4 @@
 import java.util.Arrays;
-import java.util.stream.IntStream;
 
 /*Find the index in the array where sum of all left elements == sum of all right elements
  * Array will have both positive and negative integer

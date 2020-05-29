@@ -1,7 +1,4 @@
-import java.io.*;
-import java.util.*;
-
-import org.omg.Messaging.SyncScopeHelper;
+import java.util.Scanner;
 
 public class Solution {
 

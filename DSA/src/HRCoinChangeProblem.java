@@ -2,8 +2,6 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import com.mysql.fabric.xmlrpc.base.Array;
-
 public class HRCoinChangeProblem {
 
 	public static void main(String[] args) {

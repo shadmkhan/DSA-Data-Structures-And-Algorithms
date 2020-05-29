@@ -1,5 +1,5 @@
-import java.io.*;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Scanner;
 
 public class HRDynamicArray {
 	public static void main(String[] args) {

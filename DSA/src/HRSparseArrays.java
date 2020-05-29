@@ -1,4 +1,3 @@
-import java.util.Arrays;
 import java.util.Scanner;
 //https://www.hackerrank.com/challenges/sparse-arrays
 public class HRSparseArrays {

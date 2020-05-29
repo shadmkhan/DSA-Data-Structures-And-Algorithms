@@ -1,8 +1,7 @@
-import java.io.*;
-import java.util.*;
-import java.text.*;
-import java.math.*;
-import java.util.regex.*;
+import java.util.ArrayList;
+import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 //Problem: https://www.hackerrank.com/challenges/two-characters?h_r=next-challenge&h_v=zen
 
